@@ -1,2 +1,2 @@
 # hackerrank
-Some hackerrank problem solutions
+Some hackerrank problem solutions using JavaScript
