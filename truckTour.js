@@ -25,6 +25,6 @@ function truckTour(petrolpumps) {
 
 }
 
-const tour = [[1,5], [10,3], [3,4]]
+const input = [[1,5], [10,3], [3,4]]
 
-console.log(truckTour(tour))
+console.log(truckTour(input))
