@@ -35,7 +35,6 @@ function noPrefix(words) {
     console.log("GOOD SET")
 }
 
-
 const input1 = [
     'aab',
     'defgab',
@@ -53,4 +52,7 @@ const input2 = [
     "aabghgh"
 ]
 
-noPrefix(input2)
+const input3 = ["ab", "bc", "cd"]
+
+noPrefix(input1)
+
