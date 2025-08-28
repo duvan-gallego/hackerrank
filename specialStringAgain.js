@@ -19,7 +19,7 @@ function substrCountNotOptiomalSolution(n, s) {
                                 
                 if (setS1.size == 1 && setS2.size == 1) {
                     specialSubstrings++                    
-                }                
+                }
             }                                    
         }        
     }
